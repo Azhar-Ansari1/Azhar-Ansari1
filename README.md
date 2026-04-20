@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Azhar Ansari
+### MERN Stack Developer 🚀
 
-<!--
-**Azhar-Ansari1/Azhar-Ansari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am a passionate Full Stack Developer specializing in MERN stack  
+🌱 Currently learning Advanced Backend & System Design  
+⚡ I love building scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React.js, HTML, CSS, Tailwind
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce App
+Full MERN stack shopping website with authentication & cart system  
+🔗 https://github.com/Azhar-Ansari1/(https://mern-ecommerce-1-k61b.onrender.com)
+
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azhar-Ansari1&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- Email: sohailazhar2005@gmail.com
+- LinkedIn: www.linkedin.com/in/azhar-ansari-developer
